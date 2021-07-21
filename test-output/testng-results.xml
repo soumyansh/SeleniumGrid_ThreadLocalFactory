@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16357" started-at="2021-06-27T12:29:39Z" finished-at="2021-06-27T12:29:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16357" started-at="2021-06-27T12:29:39Z" finished-at="2021-06-27T12:29:55Z">
+      <class name="GridParallel_ThreadLocal_Factory">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:GridParallel_ThreadLocal_Factory@20e2cbe0]" name="beforeSuite" is-config="true" duration-ms="18" started-at="2021-06-27T12:29:39Z" finished-at="2021-06-27T12:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:GridParallel_ThreadLocal_Factory@20e2cbe0]" name="test2" duration-ms="16316" started-at="2021-06-27T12:29:39Z" finished-at="2021-06-27T12:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:GridParallel_ThreadLocal_Factory@20e2cbe0]" name="test1" duration-ms="9635" started-at="2021-06-27T12:29:39Z" finished-at="2021-06-27T12:29:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:GridParallel_ThreadLocal_Factory@20e2cbe0]" name="test3" duration-ms="9732" started-at="2021-06-27T12:29:39Z" finished-at="2021-06-27T12:29:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:GridParallel_ThreadLocal_Factory@20e2cbe0]" name="AfterSuite" is-config="true" duration-ms="3186" started-at="2021-06-27T12:29:55Z" finished-at="2021-06-27T12:29:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- GridParallel_ThreadLocal_Factory -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
